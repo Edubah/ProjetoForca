@@ -63,7 +63,7 @@ lives_visual_dict = {
 #
 # print(forca2)
 
-print('\n                ___________\n               | /        | \n               |/        ( )\n               |          |\n               |         / \\\n               |\n           ',)
+# print('\n                ___________\n               | /        | \n               |/        ( )\n               |          |\n               |         / \\\n               |\n           ',)
 
 
 
