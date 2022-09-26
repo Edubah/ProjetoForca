@@ -66,4 +66,4 @@ lives_visual_dict = {
 # print('\n                ___________\n               | /        | \n               |/        ( )\n               |          |\n               |         / \\\n               |\n           ',)
 
 
-print(lives_visual_dict)
+#print(lives_visual_dict)
